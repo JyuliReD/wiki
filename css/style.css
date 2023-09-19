@@ -1,0 +1,36 @@
+body {
+ background-color: rgb(205, 174, 234);
+ font-family: Tahoma; 
+ padding: 50px 15%; 
+}
+h1 {
+    color: rgb(39, 39, 164);
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 200;
+    font-size: 40px;
+}
+h2 {
+     color: rgb(51, 51, 168);
+     border-left: 15px rgb(0, 0, 245) solid;
+     padding-left: 10px;
+}
+a {
+    color: rgb(92, 130, 55);
+}
+
+nav a {
+    background-color: rgb(39, 39, 164);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    margin-right: 5px;
+}
+
+nav a:hover{
+    background-color: rgb(135, 0, 128);
+}
+
+img {
+    border:  3px rgb(0, 0, 245) solid;
+}
